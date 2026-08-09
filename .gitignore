@@ -10,3 +10,7 @@ build/
 .DS_Store
 .idea/
 .vscode/
+roadmap.md
+logs.md
+AGENTS.md
+implementationplan.md
